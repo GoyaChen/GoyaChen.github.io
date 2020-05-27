@@ -1,7 +1,7 @@
 {
 "companyName": "Elrim",
-"productName": "PoC",
-"productVersion": "1.0",
+"productName": "beta",
+"productVersion": "1.1",
 "dataUrl": "Elrim.data.unityweb",
 "wasmCodeUrl": "Elrim.wasm.code.unityweb",
 "wasmFrameworkUrl": "Elrim.wasm.framework.unityweb",
